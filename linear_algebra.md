@@ -35,3 +35,7 @@ Here are “solid” linear algebra picks, organized by flavor—plus a minimal 
 * **Prasolov — *Problems in Linear Algebra*** (challenging, high-yield)
 
 Given your interests in spectral/operator theory: start with **Halmos**, run computations alongside **Trefethen & Bau**, and keep **Horn & Johnson** handy for depth.
+
+
+### source
+https://chatgpt.com/s/t_691233b75e7881919be36ccfbba3f138
